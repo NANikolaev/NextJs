@@ -14,7 +14,7 @@ border-radius:10px;
 &:hover,
 &:focus 
     {
-    border:2px solid #628eed;
+    outline:2px solid #628eed;
     }
 
     &.article>span{

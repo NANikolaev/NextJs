@@ -7,8 +7,10 @@ import { Link, SectionParagraph } from "~/components"
 export const StyledArticle = styled.article`
   
 display: grid;
-grid-template-columns: 20% auto;
-background-color:#dbd3d32b;
+grid-template-columns: 120px auto;
+padding-right:5%;
+width:max-content;
+background-color:#dbd3d33b;
 text-align:start;
 border-radius:10px;
 &:hover,
